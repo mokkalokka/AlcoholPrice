@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Alcohol Price Comparison</string>
+    <string name="Percent1"> </string>
+    <string name="Percent2"> </string>
+    <string name="Volume1">In liters</string>
+    <string name="Volume2">In liters</string>
+    <string name="Price1"> </string>
+    <string name="Price2"> </string>
+    <string name="Resultat"> </string>
+</resources>
